@@ -1,6 +1,6 @@
 # Seminario de Python 2026 🐍
 
-Este repositorio contiene los ejercicios realizados para la materia **Seminario Python **.
+Este repositorio contiene los ejercicios realizados para la materia **Seminario Python**.
 
 ## Datos del Alumno
 - **Nombre:** Ana Beatriz da Silva Freitas
