@@ -1,8 +1,13 @@
 # Seminario de Python 2026 🐍
 
-Este repositorio contiene los ejercicios realizados para la materia **Seminario Python 2**.
+Este repositorio contiene los ejercicios realizados para la materia **Seminario Python **.
 
-La estructura del proyecto sigue la consigna de la entrega:
+## Datos del Alumno
+- **Nombre:** Ana Beatriz da Silva Freitas
+- **Legajo:** 027887/6
+- **Carrera:** Licenciatura en Sistemas - UNLP
+
+## La estructura del proyecto
 
 Los notebooks con los ejercicios se encuentran dentro de la carpeta notebooks/
 
