@@ -5,6 +5,7 @@ Este repositorio contiene los ejercicios realizados para la materia **Seminario 
 La estructura del proyecto sigue la consigna de la entrega:
 
 Los notebooks con los ejercicios se encuentran dentro de la carpeta notebooks/
+
 Las funciones auxiliares y el código reutilizable se encuentran dentro de la carpeta src/
 
 ## Estructura del proyecto
